@@ -219,6 +219,7 @@ If you found this repository helpful, consider giving it a ⭐ on GitHub.
 | [0009-palindrome-number](https://github.com/manshirai09/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/manshirai09/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/manshirai09/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/manshirai09/LeetCode/tree/main/0263-ugly-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
