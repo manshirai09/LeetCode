@@ -220,6 +220,7 @@ If you found this repository helpful, consider giving it a ⭐ on GitHub.
 | [0231-power-of-two](https://github.com/manshirai09/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/manshirai09/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/manshirai09/LeetCode/tree/main/0263-ugly-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manshirai09/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
