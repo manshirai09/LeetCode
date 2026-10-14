@@ -217,6 +217,7 @@ If you found this repository helpful, consider giving it a ⭐ on GitHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/manshirai09/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0231-power-of-two](https://github.com/manshirai09/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/manshirai09/LeetCode/tree/main/0258-add-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -226,4 +227,12 @@ If you found this repository helpful, consider giving it a ⭐ on GitHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/manshirai09/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/manshirai09/LeetCode/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/manshirai09/LeetCode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
