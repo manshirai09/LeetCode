@@ -210,3 +210,11 @@ The primary focus areas include:
 # ⭐ Support
 
 If you found this repository helpful, consider giving it a ⭐ on GitHub.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/manshirai09/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+<!---LeetCode Topics End-->
